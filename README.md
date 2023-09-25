@@ -1,3 +1,5 @@
+<img src="https://gifer.com/pt/SUV4">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo,+Meu+Nome+%C3%A9+Igor+;Eu+tenho+16+Anos;+E+Curso+DS+No+Senai;)](https://git.io/typing-svg)
 
 <div align="center">  
