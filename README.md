@@ -1,4 +1,4 @@
-<img src="https://i.makeagif.com/media/10-02-2016/gPXLSc.mp4">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/8bd43448904239.58a531b0cc801.gif" alt="GIF">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo,+Meu+Nome+%C3%A9+Igor+;Eu+tenho+16+Anos;+E+Curso+DS+No+Senai;)](https://git.io/typing-svg)
 
@@ -29,4 +29,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
-
