@@ -1,6 +1,5 @@
 
-![Uc0f](https://github.com/IgorAraujooo/IgorAraujooo/assets/123735950/dcc07d47-a7ae-4001-89f2-ceac388b5561)
-
+![fsociety-code](https://github.com/IgorAraujooo/IgorAraujooo/assets/123735950/d50407f9-71d2-4033-88d7-c3009a4561fc)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo,+Meu+Nome+%C3%A9+Igor+;Eu+tenho+16+Anos;+E+Curso+DS+No+Senai;)](https://git.io/typing-svg)
 
