@@ -1,6 +1,3 @@
-
-![8bd43448904239 58a531b0cc801](https://github.com/IgorAraujooo/IgorAraujooo/assets/123735950/cf1c587b-97f0-4085-92c0-d3d9eaa5f532)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo,+meu+nome+%C3%A9+Igor+;Eu+tenho+16+anos;+E+curso+DS+no+Senai;)](https://git.io/typing-svg)
 
 <div align="center">  
